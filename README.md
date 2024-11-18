@@ -5,7 +5,7 @@ Simple bash script to attach(detach) usb devices on wsl
 
 ## 0. Requirements
 - Must install [usbipd-win](https://github.com/dorssel/usbipd-win/releases) by dorssel
-- Check [System Requirements](https://github.com/dorssel/usbipd-win/releases) from MS
+- Check [System Requirements](https://learn.microsoft.com/ko-kr/windows/wsl/connect-usb#prerequisites) from MS
 
 ## 1. Attach
 Run [wsl_usb_attach.bat](wsl_usb_attach.bat) **AS ADMINISTRATOR**
