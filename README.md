@@ -13,7 +13,7 @@ Run [wsl_usb_attach.bat](wsl_usb_attach.bat) **AS ADMINISTRATOR**
 ## 2. Detach
 Run [wsl_usb_detach.bat](wsl_usb_detach.bat) **AS ADMINISTRATOR**
 
-###
+##
 "SEARCH_KEY"(in two batch file's line 4) can be changed as you want.
 
 **USE AT YOUR OWN RISK**
