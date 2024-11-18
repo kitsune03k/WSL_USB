@@ -1,7 +1,7 @@
 # WSL_USB
 
 ![run.png](image%2Frun.png)
-Simple bash script to attach(detach) usb devices on wsl
+Simple bash script to attach(detach) usb devices on wsl, using usbipd-win
 
 ## 0. Requirements
 - Must install [usbipd-win](https://github.com/dorssel/usbipd-win/releases) by dorssel
